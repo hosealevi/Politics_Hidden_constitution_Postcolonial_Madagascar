@@ -1,0 +1,103 @@
+figure_id,encoded_field,category_code,display_label,derivation
+F_S22_1,settlement_document_form,signed_or_mediated_agreement,signed or mediated agreement,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,roadmap,roadmap,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,transition_charter,transition charter,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,constitutional_court_decision,constitutional court decision,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,ordinance_or_executive_transfer,ordinance or executive transfer,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,referendum_or_provisional_constitution,referendum or provisional constitution,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,consultation_process,consultation process,"classified from document_type, bargain_type, and formalization fields"
+F_S22_1,settlement_document_form,foundational_or_bilateral_settlement,foundational or bilateral settlement,"classified from document_type, bargain_type, and formalization fields"
+F_S22_2/F_S22_4,power_distribution_type,power_sharing_or_controlled_inclusion,power sharing or controlled inclusion,"classified from coded power-sharing, authority-transfer, office, and actor-role fields"
+F_S22_2/F_S22_4,power_distribution_type,authority_concentration_or_transfer,authority concentration or transfer,"classified from coded power-sharing, authority-transfer, office, and actor-role fields"
+F_S22_2/F_S22_4,power_distribution_type,symbolic_or_consultative_inclusion,symbolic or consultative inclusion,"classified from coded power-sharing, authority-transfer, office, and actor-role fields"
+F_S22_2/F_S22_4,power_distribution_type,electoral_exit_formula,electoral exit formula,"classified from coded power-sharing, authority-transfer, office, and actor-role fields"
+F_S22_2/F_S22_4,power_distribution_type,power_distribution_not_explicitly_coded,power distribution not explicitly coded,"classified from coded power-sharing, authority-transfer, office, and actor-role fields"
+F_S22_3_B,participant_sectors,state_elite,state elite,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,opposition_elite,opposition elite,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,military,military,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,military_elite,military elite,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,regional_organization,regional organization,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,international_organization,international organization,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,foreign_state,foreign state,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,domestic_collective,domestic collective,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,judicial_constitutional,judicial constitutional,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,religious_actor,religious actor,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,civil_society,civil society,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,transition_institution,transition institution,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,political_actor,political actor,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,opposition,opposition,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,legislature,legislature,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,opposition_movement,opposition movement,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,election_institution,election institution,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_sectors,political_bloc,political bloc,raw DB_Bargain_Actors actor_sector code
+F_S22_3_B,participant_roles,claimant_or_signatory,claimant or signatory,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,claimant_or_transition_actor,claimant or transition actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,coercive_or_transfer_actor,coercive or transfer actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,recipient_or_transfer_actor,recipient or transfer actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,mediator_or_guarantor,mediator or guarantor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,mediator_observer_or_norm_enforcer,mediator observer or norm enforcer,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,constitutional_court_or_formalizer,constitutional court or formalizer,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,transition_authority,transition authority,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,opposition_actor,opposition actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,foreign_state_counterparty,foreign state counterparty,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,participant_or_code_subject,participant or code subject,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,mediator_or_observer,mediator or observer,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,moral_or_religious_mediator,moral or religious mediator,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,consulted_actor_categories,consulted actor categories,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,host_or_mediator,host or mediator,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,participant_or_consulted_actor,participant or consulted actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,formal_state_actor,formal state actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,incumbent_or_transition_actor,incumbent or transition actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,transition_head_or_recipient,transition head or recipient,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,constitutional_framework,constitutional framework,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,adopting_body,adopting body,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,incumbent_or_counterparty,incumbent or counterparty,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,military_directorate_head,military directorate head,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,military_directorate,military directorate,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,opposition_movement_signatory,opposition movement signatory,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,election_management_actor,election management actor,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,political_movement_bloc,political movement bloc,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,consensus_prime_minister,consensus prime minister,raw DB_Bargain_Actors actor_role code
+F_S22_3_B,participant_roles,proposal_author_or_opposition_bloc,proposal author or opposition bloc,raw DB_Bargain_Actors actor_role code
+F_S22_6,condition_family,elections_referendum_or_roadmap,elections referendum or roadmap,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,election_timetable,election timetable,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,transition_institution_design,transition institution design,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,executive_power_sharing,executive power sharing,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,inclusive_government,inclusive government,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,consensus_government,consensus government,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,electoral_framework,electoral framework,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,eligibility,eligibility,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,leader_status_or_return,leader status or return,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,amnesty_or_accountability,amnesty or accountability,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,claim_resolution,claim resolution,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,political_conduct,political conduct,rule-based family derived from coded condition types and text
+F_S22_6,condition_family,return_to_constitutional_order,return to constitutional order,rule-based family derived from coded condition types and text
+F_S22_7,durability_status,implemented_or_formally_recognized,implemented or formally recognized,implementation and durability status from settlement records
+F_S22_7,durability_status,partial_or_process_needs_verification,partial or process needs verification,implementation and durability status from settlement records
+F_S22_7,durability_status,signed_but_failed_or_partially_implemented,signed but failed or partially implemented,implementation and durability status from settlement records
+F_S22_7,durability_status,ongoing_or_draft,ongoing or draft,implementation and durability status from settlement records
+F_S22_7,durability_status,not_adopted_or_failed_proposal,not adopted or failed proposal,implementation and durability status from settlement records
+F_S22_8,later_effect_family,transition_to_new_constitution,transition to new constitution,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,constitutional_amendment,constitutional amendment,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,new constitution,new constitution,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,transition charter,transition charter,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,roadmap / election exit,roadmap / election exit,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,executive precedent,executive precedent,rule-based family derived from later_effect and constitutional_context
+F_S22_8,later_effect_family,refoundation / fifth republic,refoundation / fifth republic,rule-based family derived from later_effect and constitutional_context
+F_S22_3,sector_family,state and transition institutions,state and transition institutions,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,government and state elites,government and state elites,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,opposition and political blocs,opposition and political blocs,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,military,military,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,judicial and electoral institutions,judicial and electoral institutions,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,regional and international organizations,regional and international organizations,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,foreign states,foreign states,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,religious and civil-society actors,religious and civil-society actors,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,sector_family,domestic collective actors,domestic collective actors,analytical grouping of raw actor_sector codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,"claimant, signatory, or counterparty","claimant, signatory, or counterparty",analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,"transfer, recipient, or transition authority","transfer, recipient, or transition authority",analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,"mediator, guarantor, host, or observer","mediator, guarantor, host, or observer",analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,constitutional or formal state actor,constitutional or formal state actor,analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,opposition or political movement,opposition or political movement,analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,consulted or general participant,consulted or general participant,analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,military directorate role,military directorate role,analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B
+F_S22_3,role_family,executive office role,executive office role,analytical grouping of raw actor_role codes; raw matrix retained in F_S22_3_B

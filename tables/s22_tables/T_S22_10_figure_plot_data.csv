@@ -1,0 +1,320 @@
+figure_id,row_key,column_key,distinct_settlement_records,evidence_ids
+F_S22_1,CR-1958-60,signed_or_mediated_agreement,1,CR-1958-60 / BARG-1958-01
+F_S22_1,CR-1958-60,foundational_or_bilateral_settlement,3,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02
+F_S22_4,CR-1958-60,power_distribution_not_explicitly_coded,3,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02
+F_S22_8,CR-1958-60,constitutional_amendment,3,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02
+F_S22_8,CR-1958-60,executive precedent,3,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02
+F_S22_1,CR-1972,signed_or_mediated_agreement,2,CR-1972 / BARG-1972-02; CR-1972 / BARG-1973-01
+F_S22_1,CR-1972,ordinance_or_executive_transfer,1,CR-1972 / BARG-1972-01
+F_S22_1,CR-1972,referendum_or_provisional_constitution,2,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02
+F_S22_1,CR-1972,foundational_or_bilateral_settlement,1,CR-1972 / BARG-1973-01
+F_S22_4,CR-1972,authority_concentration_or_transfer,3,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02; CR-1972 / BARG-1973-01
+F_S22_6,CR-1972,elections_referendum_or_roadmap,2,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02
+F_S22_6,CR-1972,election_timetable,2,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02
+F_S22_6,CR-1972,return_to_constitutional_order,1,CR-1972 / BARG-1972-02
+F_S22_1,CR-1975,signed_or_mediated_agreement,2,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_1,CR-1975,ordinance_or_executive_transfer,1,CR-1975 / BARG-1975-01
+F_S22_4,CR-1975,authority_concentration_or_transfer,2,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_8,CR-1975,transition charter,2,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_8,CR-1975,executive precedent,2,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_1,CR-1991,signed_or_mediated_agreement,2,CR-1991 / BARG-1991-01; CR-1991 / BARG-1991-02
+F_S22_4,CR-1991,power_sharing_or_controlled_inclusion,1,CR-1991 / BARG-1991-01
+F_S22_4,CR-1991,authority_concentration_or_transfer,1,CR-1991 / BARG-1991-02
+F_S22_6,CR-1991,elections_referendum_or_roadmap,1,CR-1991 / BARG-1991-01
+F_S22_6,CR-1991,election_timetable,1,CR-1991 / BARG-1991-01
+F_S22_6,CR-1991,return_to_constitutional_order,1,CR-1991 / BARG-1991-02
+F_S22_8,CR-1991,constitutional_amendment,2,CR-1991 / BARG-1991-01; CR-1991 / BARG-1991-02
+F_S22_8,CR-1991,new constitution,2,CR-1991 / BARG-1991-01; CR-1991 / BARG-1991-02
+F_S22_8,CR-1991,executive precedent,2,CR-1991 / BARG-1991-01; CR-1991 / BARG-1991-02
+F_S22_1,CR-2001-02,signed_or_mediated_agreement,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_4,CR-2001-02,power_sharing_or_controlled_inclusion,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_6,CR-2001-02,elections_referendum_or_roadmap,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_6,CR-2001-02,election_timetable,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_6,CR-2001-02,consensus_government,1,CR-2001-02 / BARG-2002-01
+F_S22_6,CR-2001-02,claim_resolution,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_1,CR-2009,ordinance_or_executive_transfer,1,CR-2009 / BARG-2009-01
+F_S22_4,CR-2009,authority_concentration_or_transfer,1,CR-2009 / BARG-2009-01
+F_S22_6,CR-2009,elections_referendum_or_roadmap,1,CR-2009 / BARG-2009-01
+F_S22_6,CR-2009,election_timetable,1,CR-2009 / BARG-2009-01
+F_S22_8,CR-2009,constitutional_amendment,1,CR-2009 / BARG-2009-01
+F_S22_8,CR-2009,executive precedent,1,CR-2009 / BARG-2009-01
+F_S22_1,CR-2009-10,signed_or_mediated_agreement,6,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01
+F_S22_1,CR-2009-10,transition_charter,4,CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09
+F_S22_1,CR-2009-10,foundational_or_bilateral_settlement,1,CR-2009-10 / BARG-2009-03
+F_S22_4,CR-2009-10,power_sharing_or_controlled_inclusion,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2010-01
+F_S22_4,CR-2009-10,authority_concentration_or_transfer,1,CR-2009-10 / BARG-2009-07
+F_S22_4,CR-2009-10,power_distribution_not_explicitly_coded,4,CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-10
+F_S22_6,CR-2009-10,elections_referendum_or_roadmap,9,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10
+F_S22_6,CR-2009-10,election_timetable,9,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10
+F_S22_6,CR-2009-10,transition_institution_design,1,CR-2009-10 / BARG-2009-04
+F_S22_6,CR-2009-10,executive_power_sharing,1,CR-2009-10 / BARG-2009-09
+F_S22_6,CR-2009-10,inclusive_government,2,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2010-01
+F_S22_6,CR-2009-10,leader_status_or_return,1,CR-2009-10 / BARG-2009-06
+F_S22_6,CR-2009-10,amnesty_or_accountability,2,CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-07
+F_S22_6,CR-2009-10,return_to_constitutional_order,1,CR-2009-10 / BARG-2010-01
+F_S22_8,CR-2009-10,transition_to_new_constitution,10,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01
+F_S22_8,CR-2009-10,new constitution,10,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01
+F_S22_8,CR-2009-10,transition charter,10,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01
+F_S22_8,CR-2009-10,roadmap / election exit,10,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01
+F_S22_1,CR-2011,roadmap,3,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2011 / BARG-2012-01
+F_S22_4,CR-2011,power_sharing_or_controlled_inclusion,2,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02
+F_S22_4,CR-2011,power_distribution_not_explicitly_coded,1,CR-2011 / BARG-2012-01
+F_S22_6,CR-2011,elections_referendum_or_roadmap,3,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2011 / BARG-2012-01
+F_S22_6,CR-2011,election_timetable,3,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2011 / BARG-2012-01
+F_S22_6,CR-2011,transition_institution_design,1,CR-2011 / BARG-2011-01
+F_S22_6,CR-2011,inclusive_government,1,CR-2011 / BARG-2011-01
+F_S22_6,CR-2011,consensus_government,2,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02
+F_S22_6,CR-2011,political_conduct,1,CR-2011 / BARG-2012-01
+F_S22_6,CR-2011,return_to_constitutional_order,1,CR-2011 / BARG-2011-01
+F_S22_8,CR-2011,transition_to_new_constitution,3,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2011 / BARG-2012-01
+F_S22_8,CR-2011,roadmap / election exit,3,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2011 / BARG-2012-01
+F_S22_1,CR-2013,signed_or_mediated_agreement,1,CR-2013 / BARG-2014-15-01
+F_S22_4,CR-2013,power_distribution_not_explicitly_coded,1,CR-2013 / BARG-2014-15-01
+F_S22_1,CR-2018,signed_or_mediated_agreement,1,CR-2018 / BARG-2018-01
+F_S22_1,CR-2018,constitutional_court_decision,1,CR-2018 / BARG-2018-01
+F_S22_4,CR-2018,power_sharing_or_controlled_inclusion,1,CR-2018 / BARG-2018-01
+F_S22_6,CR-2018,elections_referendum_or_roadmap,1,CR-2018 / BARG-2018-01
+F_S22_6,CR-2018,election_timetable,1,CR-2018 / BARG-2018-01
+F_S22_6,CR-2018,consensus_government,1,CR-2018 / BARG-2018-01
+F_S22_6,CR-2018,electoral_framework,1,CR-2018 / BARG-2018-01
+F_S22_1,CR-2023,signed_or_mediated_agreement,1,CR-2023 / BARG-2023-01
+F_S22_1,CR-2023,roadmap,1,CR-2023 / BARG-2023-01
+F_S22_4,CR-2023,power_distribution_not_explicitly_coded,1,CR-2023 / BARG-2023-01
+F_S22_6,CR-2023,elections_referendum_or_roadmap,1,CR-2023 / BARG-2023-01
+F_S22_6,CR-2023,election_timetable,1,CR-2023 / BARG-2023-01
+F_S22_1,CR-2025,constitutional_court_decision,1,CR-2025 / BARG-2025-01
+F_S22_4,CR-2025,authority_concentration_or_transfer,1,CR-2025 / BARG-2025-01
+F_S22_6,CR-2025,transition_institution_design,1,CR-2025 / BARG-2025-01
+F_S22_8,CR-2025,executive precedent,1,CR-2025 / BARG-2025-01
+F_S22_1,CR-2025-26,roadmap,2,CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_1,CR-2025-26,constitutional_court_decision,1,CR-2025-26 / BARG-2025-02
+F_S22_1,CR-2025-26,consultation_process,1,CR-2025-26 / BARG-2025-03
+F_S22_4,CR-2025-26,authority_concentration_or_transfer,2,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2026-01
+F_S22_4,CR-2025-26,power_distribution_not_explicitly_coded,2,CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04
+F_S22_6,CR-2025-26,elections_referendum_or_roadmap,2,CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_6,CR-2025-26,election_timetable,2,CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_6,CR-2025-26,transition_institution_design,1,CR-2025-26 / BARG-2025-02
+F_S22_6,CR-2025-26,return_to_constitutional_order,2,CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_8,CR-2025-26,transition_to_new_constitution,4,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_8,CR-2025-26,new constitution,4,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_8,CR-2025-26,roadmap / election exit,4,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_8,CR-2025-26,executive precedent,4,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_8,CR-2025-26,refoundation / fifth republic,4,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_2,signed_or_mediated_agreement,power_sharing_or_controlled_inclusion,6,CR-1991 / BARG-1991-01; CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_2,signed_or_mediated_agreement,authority_concentration_or_transfer,6,CR-1972 / BARG-1972-02; CR-1972 / BARG-1973-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-1991 / BARG-1991-02; CR-2009-10 / BARG-2009-07
+F_S22_2,signed_or_mediated_agreement,power_distribution_not_explicitly_coded,6,CR-1958-60 / BARG-1958-01; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-10; CR-2013 / BARG-2014-15-01; CR-2023 / BARG-2023-01
+F_S22_2,roadmap,power_sharing_or_controlled_inclusion,2,CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02
+F_S22_2,roadmap,authority_concentration_or_transfer,1,CR-2025-26 / BARG-2026-01
+F_S22_2,roadmap,power_distribution_not_explicitly_coded,3,CR-2011 / BARG-2012-01; CR-2023 / BARG-2023-01; CR-2025-26 / BARG-2025-04
+F_S22_2,transition_charter,power_sharing_or_controlled_inclusion,3,CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2009-09
+F_S22_2,transition_charter,power_distribution_not_explicitly_coded,1,CR-2009-10 / BARG-2009-03
+F_S22_2,constitutional_court_decision,power_sharing_or_controlled_inclusion,1,CR-2018 / BARG-2018-01
+F_S22_2,constitutional_court_decision,authority_concentration_or_transfer,2,CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_2,ordinance_or_executive_transfer,authority_concentration_or_transfer,3,CR-1972 / BARG-1972-01; CR-1975 / BARG-1975-01; CR-2009 / BARG-2009-01
+F_S22_2,referendum_or_provisional_constitution,authority_concentration_or_transfer,2,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02
+F_S22_2,consultation_process,power_distribution_not_explicitly_coded,1,CR-2025-26 / BARG-2025-03
+F_S22_2,foundational_or_bilateral_settlement,authority_concentration_or_transfer,1,CR-1972 / BARG-1973-01
+F_S22_2,foundational_or_bilateral_settlement,power_distribution_not_explicitly_coded,4,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02; CR-2009-10 / BARG-2009-03
+F_S22_3_B,state_elite,claimant_or_signatory,14,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-1991 / BARG-1991-01; CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2013 / BARG-2014-15-01
+F_S22_3_B,state_elite,claimant_or_transition_actor,9,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2009-10 / BARG-2010-01; CR-2013 / BARG-2014-15-01
+F_S22_3_B,state_elite,coercive_or_transfer_actor,5,CR-1972 / BARG-1972-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07
+F_S22_3_B,state_elite,recipient_or_transfer_actor,3,CR-1972 / BARG-1972-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_3_B,state_elite,mediator_or_guarantor,6,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,mediator_observer_or_norm_enforcer,9,CR-1975 / BARG-1975-02; CR-1991 / BARG-1991-01; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,constitutional_court_or_formalizer,2,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,transition_authority,3,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,opposition_actor,2,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,participant_or_code_subject,4,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,mediator_or_observer,6,CR-2001-02 / BARG-2002-02; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,state_elite,moral_or_religious_mediator,2,CR-1991 / BARG-1991-01; CR-2013 / BARG-2014-15-01
+F_S22_3_B,state_elite,host_or_mediator,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_3_B,state_elite,formal_state_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,incumbent_or_transition_actor,2,CR-2013 / BARG-2014-15-01; CR-2018 / BARG-2018-01
+F_S22_3_B,state_elite,incumbent_or_counterparty,1,CR-1972 / BARG-1972-01
+F_S22_3_B,state_elite,military_directorate_head,1,CR-1975 / BARG-1975-02
+F_S22_3_B,state_elite,military_directorate,1,CR-1975 / BARG-1975-02
+F_S22_3_B,state_elite,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,state_elite,election_management_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,state_elite,political_movement_bloc,1,CR-2009-10 / BARG-2009-10
+F_S22_3_B,state_elite,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition_elite,claimant_or_signatory,8,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2013 / BARG-2014-15-01
+F_S22_3_B,opposition_elite,claimant_or_transition_actor,7,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2009-10 / BARG-2009-10; CR-2013 / BARG-2014-15-01
+F_S22_3_B,opposition_elite,coercive_or_transfer_actor,1,CR-2009-10 / BARG-2009-07
+F_S22_3_B,opposition_elite,mediator_or_guarantor,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,opposition_elite,mediator_observer_or_norm_enforcer,6,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,opposition_elite,opposition_actor,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_elite,participant_or_code_subject,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_elite,mediator_or_observer,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,opposition_elite,moral_or_religious_mediator,2,CR-1991 / BARG-1991-01; CR-2013 / BARG-2014-15-01
+F_S22_3_B,opposition_elite,incumbent_or_transition_actor,1,CR-2013 / BARG-2014-15-01
+F_S22_3_B,opposition_elite,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_elite,election_management_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,opposition_elite,political_movement_bloc,1,CR-2009-10 / BARG-2009-10
+F_S22_3_B,military,claimant_or_signatory,4,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07
+F_S22_3_B,military,claimant_or_transition_actor,2,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07
+F_S22_3_B,military,coercive_or_transfer_actor,8,CR-1972 / BARG-1972-01; CR-1972 / BARG-1973-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,military,recipient_or_transfer_actor,4,CR-1972 / BARG-1972-01; CR-1972 / BARG-1973-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_3_B,military,mediator_or_guarantor,1,CR-2009-10 / BARG-2009-07
+F_S22_3_B,military,mediator_observer_or_norm_enforcer,5,CR-1975 / BARG-1975-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,military,constitutional_court_or_formalizer,3,CR-2009 / BARG-2009-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,military,transition_authority,1,CR-2009 / BARG-2009-01
+F_S22_3_B,military,foreign_state_counterparty,1,CR-1972 / BARG-1973-01
+F_S22_3_B,military,mediator_or_observer,1,CR-2009-10 / BARG-2009-07
+F_S22_3_B,military,consulted_actor_categories,1,CR-2025-26 / BARG-2025-02
+F_S22_3_B,military,transition_head_or_recipient,1,CR-2025 / BARG-2025-01
+F_S22_3_B,military,incumbent_or_counterparty,1,CR-1972 / BARG-1972-01
+F_S22_3_B,military,military_directorate_head,1,CR-1975 / BARG-1975-02
+F_S22_3_B,military,military_directorate,1,CR-1975 / BARG-1975-02
+F_S22_3_B,military_elite,claimant_or_signatory,2,CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_3_B,military_elite,coercive_or_transfer_actor,5,CR-1972 / BARG-1972-01; CR-1972 / BARG-1973-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02; CR-2025 / BARG-2025-01
+F_S22_3_B,military_elite,recipient_or_transfer_actor,5,CR-1972 / BARG-1972-01; CR-1972 / BARG-1972-02; CR-1972 / BARG-1973-01; CR-1975 / BARG-1975-01; CR-1975 / BARG-1975-02
+F_S22_3_B,military_elite,mediator_or_guarantor,1,CR-2025-26 / BARG-2026-01
+F_S22_3_B,military_elite,mediator_observer_or_norm_enforcer,2,CR-1975 / BARG-1975-02; CR-2025 / BARG-2025-01
+F_S22_3_B,military_elite,constitutional_court_or_formalizer,1,CR-2025 / BARG-2025-01
+F_S22_3_B,military_elite,foreign_state_counterparty,1,CR-1972 / BARG-1973-01
+F_S22_3_B,military_elite,consulted_actor_categories,1,CR-2025-26 / BARG-2026-01
+F_S22_3_B,military_elite,transition_head_or_recipient,2,CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2026-01
+F_S22_3_B,military_elite,incumbent_or_counterparty,1,CR-1972 / BARG-1972-01
+F_S22_3_B,military_elite,military_directorate_head,1,CR-1975 / BARG-1975-02
+F_S22_3_B,military_elite,military_directorate,1,CR-1975 / BARG-1975-02
+F_S22_3_B,regional_organization,claimant_or_signatory,8,CR-1975 / BARG-1975-02; CR-1991 / BARG-1991-01; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,regional_organization,claimant_or_transition_actor,6,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,regional_organization,coercive_or_transfer_actor,5,CR-1975 / BARG-1975-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-07; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,regional_organization,recipient_or_transfer_actor,1,CR-1975 / BARG-1975-02
+F_S22_3_B,regional_organization,mediator_or_guarantor,10,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2011 / BARG-2011-01; CR-2011 / BARG-2011-02; CR-2018 / BARG-2018-01; CR-2025-26 / BARG-2025-04; CR-2025-26 / BARG-2026-01
+F_S22_3_B,regional_organization,mediator_observer_or_norm_enforcer,15,CR-1975 / BARG-1975-02; CR-1991 / BARG-1991-01; CR-1991 / BARG-1991-02; CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09; CR-2011 / BARG-2011-01; CR-2018 / BARG-2018-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-04
+F_S22_3_B,regional_organization,constitutional_court_or_formalizer,4,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,regional_organization,transition_authority,2,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01
+F_S22_3_B,regional_organization,opposition_actor,2,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01
+F_S22_3_B,regional_organization,participant_or_code_subject,3,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-05; CR-2018 / BARG-2018-01
+F_S22_3_B,regional_organization,mediator_or_observer,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,regional_organization,moral_or_religious_mediator,1,CR-1991 / BARG-1991-01
+F_S22_3_B,regional_organization,consulted_actor_categories,2,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2026-01
+F_S22_3_B,regional_organization,formal_state_actor,2,CR-2011 / BARG-2011-02; CR-2018 / BARG-2018-01
+F_S22_3_B,regional_organization,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,regional_organization,transition_head_or_recipient,2,CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2026-01
+F_S22_3_B,regional_organization,military_directorate_head,1,CR-1975 / BARG-1975-02
+F_S22_3_B,regional_organization,military_directorate,1,CR-1975 / BARG-1975-02
+F_S22_3_B,regional_organization,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,regional_organization,election_management_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,regional_organization,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,international_organization,claimant_or_signatory,6,CR-2001-02 / BARG-2002-02; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,international_organization,claimant_or_transition_actor,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,international_organization,coercive_or_transfer_actor,1,CR-2009-10 / BARG-2009-07
+F_S22_3_B,international_organization,mediator_or_guarantor,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,international_organization,mediator_observer_or_norm_enforcer,5,CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,international_organization,mediator_or_observer,6,CR-2001-02 / BARG-2002-02; CR-2009-10 / BARG-2009-02; CR-2009-10 / BARG-2009-03; CR-2009-10 / BARG-2009-04; CR-2009-10 / BARG-2009-07; CR-2009-10 / BARG-2009-09
+F_S22_3_B,international_organization,host_or_mediator,1,CR-2001-02 / BARG-2002-02
+F_S22_3_B,international_organization,election_management_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,foreign_state,claimant_or_signatory,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_3_B,foreign_state,coercive_or_transfer_actor,1,CR-1972 / BARG-1973-01
+F_S22_3_B,foreign_state,recipient_or_transfer_actor,1,CR-1972 / BARG-1973-01
+F_S22_3_B,foreign_state,foreign_state_counterparty,4,CR-1958-60 / BARG-1958-01; CR-1958-60 / BARG-1960-01; CR-1958-60 / BARG-1960-02; CR-1972 / BARG-1973-01
+F_S22_3_B,foreign_state,mediator_or_observer,1,CR-2001-02 / BARG-2002-02
+F_S22_3_B,foreign_state,host_or_mediator,2,CR-2001-02 / BARG-2002-01; CR-2001-02 / BARG-2002-02
+F_S22_3_B,foreign_state,constitutional_framework,1,CR-1958-60 / BARG-1958-01
+F_S22_3_B,foreign_state,adopting_body,1,CR-1958-60 / BARG-1958-01
+F_S22_3_B,domestic_collective,coercive_or_transfer_actor,1,CR-2025-26 / BARG-2025-02
+F_S22_3_B,domestic_collective,mediator_or_guarantor,1,CR-2025-26 / BARG-2026-01
+F_S22_3_B,domestic_collective,mediator_observer_or_norm_enforcer,1,CR-2025-26 / BARG-2025-02
+F_S22_3_B,domestic_collective,constitutional_court_or_formalizer,1,CR-2025-26 / BARG-2025-02
+F_S22_3_B,domestic_collective,foreign_state_counterparty,1,CR-1958-60 / BARG-1958-01
+F_S22_3_B,domestic_collective,moral_or_religious_mediator,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,domestic_collective,consulted_actor_categories,3,CR-2025-26 / BARG-2025-02; CR-2025-26 / BARG-2025-03; CR-2025-26 / BARG-2026-01
+F_S22_3_B,domestic_collective,participant_or_consulted_actor,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,domestic_collective,transition_head_or_recipient,1,CR-2025-26 / BARG-2026-01
+F_S22_3_B,domestic_collective,constitutional_framework,1,CR-1958-60 / BARG-1958-01
+F_S22_3_B,domestic_collective,adopting_body,1,CR-1958-60 / BARG-1958-01
+F_S22_3_B,judicial_constitutional,claimant_or_signatory,1,CR-2009 / BARG-2009-01
+F_S22_3_B,judicial_constitutional,claimant_or_transition_actor,1,CR-2009 / BARG-2009-01
+F_S22_3_B,judicial_constitutional,coercive_or_transfer_actor,3,CR-2009 / BARG-2009-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,judicial_constitutional,mediator_or_guarantor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,mediator_observer_or_norm_enforcer,4,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,judicial_constitutional,constitutional_court_or_formalizer,4,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01; CR-2025 / BARG-2025-01; CR-2025-26 / BARG-2025-02
+F_S22_3_B,judicial_constitutional,transition_authority,2,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,opposition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,participant_or_code_subject,1,CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,consulted_actor_categories,1,CR-2025-26 / BARG-2025-02
+F_S22_3_B,judicial_constitutional,formal_state_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,judicial_constitutional,transition_head_or_recipient,1,CR-2025 / BARG-2025-01
+F_S22_3_B,judicial_constitutional,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,religious_actor,claimant_or_signatory,2,CR-1991 / BARG-1991-01; CR-2013 / BARG-2014-15-01
+F_S22_3_B,religious_actor,claimant_or_transition_actor,1,CR-2013 / BARG-2014-15-01
+F_S22_3_B,religious_actor,mediator_observer_or_norm_enforcer,1,CR-1991 / BARG-1991-01
+F_S22_3_B,religious_actor,opposition_actor,1,CR-1991 / BARG-1991-01
+F_S22_3_B,religious_actor,participant_or_code_subject,1,CR-1991 / BARG-1991-01
+F_S22_3_B,religious_actor,moral_or_religious_mediator,3,CR-1991 / BARG-1991-01; CR-2013 / BARG-2014-15-01; CR-2025-26 / BARG-2025-03
+F_S22_3_B,religious_actor,consulted_actor_categories,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,religious_actor,participant_or_consulted_actor,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,religious_actor,incumbent_or_transition_actor,1,CR-2013 / BARG-2014-15-01
+F_S22_3_B,religious_actor,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,civil_society,transition_authority,1,CR-2009-10 / BARG-2009-08
+F_S22_3_B,civil_society,participant_or_code_subject,1,CR-2009-10 / BARG-2009-08
+F_S22_3_B,civil_society,moral_or_religious_mediator,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,civil_society,consulted_actor_categories,1,CR-2025-26 / BARG-2025-03
+F_S22_3_B,civil_society,participant_or_consulted_actor,2,CR-2009-10 / BARG-2009-08; CR-2025-26 / BARG-2025-03
+F_S22_3_B,transition_institution,claimant_or_signatory,1,CR-2009 / BARG-2009-01
+F_S22_3_B,transition_institution,claimant_or_transition_actor,2,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2010-01
+F_S22_3_B,transition_institution,coercive_or_transfer_actor,1,CR-2009 / BARG-2009-01
+F_S22_3_B,transition_institution,mediator_or_guarantor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,mediator_observer_or_norm_enforcer,2,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,constitutional_court_or_formalizer,2,CR-2009 / BARG-2009-01; CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,transition_authority,4,CR-2009 / BARG-2009-01; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,opposition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,participant_or_code_subject,3,CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,participant_or_consulted_actor,1,CR-2009-10 / BARG-2009-08
+F_S22_3_B,transition_institution,formal_state_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,transition_institution,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,claimant_or_signatory,2,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-06
+F_S22_3_B,political_actor,claimant_or_transition_actor,1,CR-2009-10 / BARG-2010-01
+F_S22_3_B,political_actor,mediator_or_guarantor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,mediator_observer_or_norm_enforcer,3,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-05; CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,constitutional_court_or_formalizer,1,CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,transition_authority,3,CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2010-01; CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,opposition_actor,2,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,participant_or_code_subject,7,CR-1991 / BARG-1991-01; CR-2009-10 / BARG-2009-05; CR-2009-10 / BARG-2009-06; CR-2009-10 / BARG-2009-08; CR-2009-10 / BARG-2010-01; CR-2011 / BARG-2012-01; CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,moral_or_religious_mediator,1,CR-1991 / BARG-1991-01
+F_S22_3_B,political_actor,participant_or_consulted_actor,1,CR-2009-10 / BARG-2009-08
+F_S22_3_B,political_actor,formal_state_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,political_actor,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,political_actor,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,claimant_or_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition,mediator_or_guarantor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,mediator_observer_or_norm_enforcer,2,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,constitutional_court_or_formalizer,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,transition_authority,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,opposition_actor,3,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01; CR-2023 / BARG-2023-01
+F_S22_3_B,opposition,participant_or_code_subject,2,CR-1991 / BARG-1991-01; CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,moral_or_religious_mediator,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition,formal_state_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition,proposal_author_or_opposition_bloc,1,CR-2023 / BARG-2023-01
+F_S22_3_B,legislature,mediator_or_guarantor,2,CR-2011 / BARG-2011-02; CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,mediator_observer_or_norm_enforcer,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,constitutional_court_or_formalizer,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,transition_authority,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,opposition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,participant_or_code_subject,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,formal_state_actor,2,CR-2011 / BARG-2011-02; CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,incumbent_or_transition_actor,1,CR-2018 / BARG-2018-01
+F_S22_3_B,legislature,consensus_prime_minister,1,CR-2018 / BARG-2018-01
+F_S22_3_B,opposition_movement,claimant_or_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_movement,mediator_observer_or_norm_enforcer,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_movement,opposition_actor,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_movement,participant_or_code_subject,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_movement,moral_or_religious_mediator,1,CR-1991 / BARG-1991-01
+F_S22_3_B,opposition_movement,opposition_movement_signatory,1,CR-1991 / BARG-1991-01
+F_S22_3_B,election_institution,claimant_or_signatory,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,election_institution,claimant_or_transition_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,election_institution,mediator_or_guarantor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,election_institution,mediator_observer_or_norm_enforcer,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,election_institution,mediator_or_observer,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,election_institution,election_management_actor,1,CR-2009-10 / BARG-2009-04
+F_S22_3_B,political_bloc,claimant_or_signatory,1,CR-2009-10 / BARG-2009-10
+F_S22_3_B,political_bloc,claimant_or_transition_actor,1,CR-2009-10 / BARG-2009-10
+F_S22_3_B,political_bloc,political_movement_bloc,1,CR-2009-10 / BARG-2009-10
